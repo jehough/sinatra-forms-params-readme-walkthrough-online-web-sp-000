@@ -7,5 +7,8 @@ class App < Sinatra::Base
   end
 
   # Add your post route and action below
-
+  <form>
+  <input type="text">
+  <input type="submit">
+  </form>
 end
